@@ -10,9 +10,5 @@ public interface FileExtractor {
 	 * @return
 	 */
 	public String getContent();
-	/**
-	 * obtain the content of text from the file of specific format.
-	 * @return
-	 */
-	public String getMetaData();
+	
 }
